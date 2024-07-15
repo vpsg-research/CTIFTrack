@@ -2,7 +2,7 @@
 Once the paper is accepted for publication, we will open the source code to the public immediately.
 
 ## Performance
-![](imgs/aucVSfps.svg)
+![](aucVSfps.svg)
 
 Highlight 1:TIF module:
 

@@ -4,13 +4,13 @@ Once the paper is accepted for publication, we will open the source code to the 
 ## Performance
 ![](aucVSfps.png)
 
-Highlight 1:TIF module:
+Highlight 1:
 
-lib.models.ctiftrack.TIF
+TIF module: lib.models.ctiftrack.TIF
 
-Highlight 2:OTFR module:
+Highlight 2:
 
-lib.models.ctiftrack.vit_cae_async
+OTFR module: lib.models.ctiftrack.vit_cae_async
 
 <table class="tg">
 <thead>

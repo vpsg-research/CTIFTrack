@@ -123,5 +123,14 @@ python lib/test/utils/transform_got10k.py --tracker_name ctiftrack --cfg_name B8
 python tracking/test.py ctiftrack B8_cae_center_all_ep300 --dataset trackingnet --threads 8 --num_gpus 1 --ep 299 300
 python lib/test/utils/transform_trackingnet.py --tracker_name ctiftrack --cfg_name B8_cae_center_all_ep300_300 # the last number is epoch
 ```
+## Citation
+Please cite our paper if the code is used in your research:
+```
+@ARTICLE{zhang2024CTIFTrack,
+  author={Zhang, Zhiguo and Guo, Zhiqing and Wang, Liejun and Li, Yongming},
+  journal={Expert Systems With Applications}, 
+  title={CTIFTrack: Continuous Temporal  Information Fusion for Object Track}, 
+  year={2024}}
+```
 ## Acknowledgement
 Our code is built upon [LiteTrack](https://github.com/TsingWei/LiteTrack). Also grateful for PyTracking.

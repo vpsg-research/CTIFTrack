@@ -4,7 +4,7 @@ TODO list:
 - [√] Release training and testing code.
 - [√] Release our trained models.
 ## Performance
-![](img/aucVSfps.png)
+![](imgs/aucVSfps.png)
 
 Highlight 1:TIF module:
 
